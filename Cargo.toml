@@ -1,0 +1,9 @@
+[package]
+name = "rs-template"
+version = "0.1.0"
+authors = ["xfuncc <xfuncc@gmail.com>"]
+license = "Apache-2.0"
+edition = "2021"
+description = "A template for Rust projects"
+
+[dependencies]
